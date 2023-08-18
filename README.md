@@ -1,5 +1,5 @@
 # web-downloader
-Program do automatycznego pobierania strony HTML wraz z jej zasobami (np. zdjęcia, style, pliki PDF i dowolne inne pliki). Ma na celu usprawnienie procesu pobierania dużej ilości danych (zdjęć, PDF, ...) ze strony, aby uniknąć bardziej czasochłonnego ręcznego pobierania za pomocą "Ctrl+S".
+Program do automatycznego pobierania strony HTML wraz z jej zasobami (np. zdjęcia, style, pliki PDF i dowolne inne pliki). Ma na celu usprawnienie procesu pobierania dużej ilości danych (zdjęć, PDF, ...) ze strony, aby uniknąć bardziej czasochłonnego pobierania za pomocą "Ctrl+S".
 
 ## Instrukcja
 Do uruchomienia programu potrzebne są następujące zmienne:
